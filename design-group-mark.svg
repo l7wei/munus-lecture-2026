@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"
+  role="img" aria-labelledby="title description">
+  <title id="title">文創設計小組</title>
+  <desc id="description">三組逐步展開的直角線條，形成向外開放的觀看框架。</desc>
+  <g fill="none" stroke="#fff" stroke-width="2.75"
+    stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M8 10 V54 H52 V36" />
+    <path d="M20 10 V42 H52 V24" />
+    <path d="M32 10 V30 H52 V12" />
+  </g>
+</svg>
