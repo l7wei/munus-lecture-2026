@@ -1,0 +1,116 @@
+- generic [active] [ref=e1]:
+  - link "跳至主要內容" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - link "文創設計小組" [ref=e4] [cursor=pointer]:
+      - /url: "#top"
+    - navigation "頁面導覽" [ref=e10]:
+      - link "關於講座" [ref=e11] [cursor=pointer]:
+        - /url: "#about"
+      - link "講者與實踐" [ref=e12] [cursor=pointer]:
+        - /url: "#speaker"
+      - link "行前閱讀" [ref=e13] [cursor=pointer]:
+        - /url: "#prepare"
+      - link "前往報名 ↗" [ref=e14] [cursor=pointer]:
+        - /url: https://luma.com/szfyxfyh
+  - main [ref=e15]:
+    - region [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]: 文創設計小組 / 線上講座
+        - generic [ref=e19]: 2026 — 10.01
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - heading "設計作為 認識世界的 方法" [level=1] [ref=e22]:
+            - generic [ref=e23]: 設計作為
+            - generic [ref=e24]: 認識世界的
+            - generic [ref=e25]: 方法
+          - paragraph [ref=e26]: Munus Shih 施宥丞從清大工科到紐約設計教學
+        - img "規律線條從平面翻轉、展開為開放的觀看框架" [ref=e27]
+      - generic "活動資訊" [ref=e40]:
+        - generic [ref=e41]:
+          - generic [ref=e42]: DATE / 日期
+          - strong [ref=e43]: 2026.10.01 THU
+        - generic [ref=e44]:
+          - generic [ref=e45]: TIME / 台灣時間
+          - strong [ref=e46]: 22:00 — 23:30
+        - generic [ref=e47]:
+          - generic [ref=e48]: FORMAT / 活動形式
+          - strong [ref=e49]: 線上講座 × 紐約連線
+        - link "立即報名" [ref=e50] [cursor=pointer]:
+          - /url: https://luma.com/szfyxfyh
+          - text: 立即報名
+          - generic [aria-hidden] [ref=e51]: ↗
+    - region [ref=e52]:
+      - generic [ref=e53]: 01 / ABOUT THE TALK
+      - generic [ref=e54]:
+        - heading "把觀看世界的 框架打開。" [level=2] [ref=e55]: 把觀看世界的框架打開。
+        - paragraph [ref=e56]: 設計不只是做出視覺成果，也可以是一種學習、研究、製作與組織事情的方法。
+        - paragraph [ref=e57]: Munus 將從清大工科走向設計與教學的路徑出發，分享不同階段的實踐，並和大家聊聊：當設計成為理解事物的方法，我們會如何重新提問、動手製作，與他人一起工作？
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - strong [ref=e60]: 30 分鐘
+            - text: 分享
+          - generic [ref=e61]:
+            - strong [ref=e62]: 60 分鐘
+            - text: 交流與提問
+          - generic [ref=e63]:
+            - strong [ref=e64]: 線上舉行
+            - text: 開放任何人參加，清大學生優先
+    - region [ref=e65]:
+      - generic [ref=e66]: 02 / SPEAKER
+      - generic [ref=e67]:
+        - heading "施宥丞 Munus Shih" [level=2] [ref=e68]:
+          - text: 施宥丞
+          - generic [ref=e69]: Munus Shih
+        - paragraph [ref=e70]: Pratt Institute 助理教授清大工科系・載物書院院友
+        - paragraph [ref=e71]: 在紐約工作的設計師、教育者與研究者；他的工作橫跨設計教育、創意程式設計、開源出版與合作實踐。
+        - paragraph [ref=e72]: 現任 Pratt Institute Graduate Communications Design 助理教授。這次從自身經驗出發，讓不同領域的實踐成為一場關於「如何認識世界」的對話。
+        - generic "認識講者與相關實踐" [ref=e73]:
+          - link "Munus Shih 從講者網站認識他的背景與實踐" [ref=e74] [cursor=pointer]:
+            - /url: https://www.munusshih.com/about
+            - generic [ref=e75]: Munus Shih
+            - generic [ref=e76]: 從講者網站認識他的背景與實踐
+            - generic [aria-hidden] [ref=e77]: ↗
+          - link "p5.book 以 p5.js 製作與輸出 PDF 書籍的開源工具" [ref=e78] [cursor=pointer]:
+            - /url: https://p5-book.vercel.app/
+            - generic [ref=e79]: p5.book
+            - generic [ref=e80]: 以 p5.js 製作與輸出 PDF 書籍的開源工具
+            - generic [aria-hidden] [ref=e81]: ↗
+          - link "CoAssembly 圍繞合作與社群的設計實踐" [ref=e82] [cursor=pointer]:
+            - /url: https://coassembly.work/
+            - generic [ref=e83]: CoAssembly
+            - generic [ref=e84]: 圍繞合作與社群的設計實踐
+            - generic [aria-hidden] [ref=e85]: ↗
+    - region [ref=e86]:
+      - generic [ref=e87]: 03 / BEFORE WE MEET
+      - generic [ref=e88]:
+        - heading "帶著好奇心來。" [level=2] [ref=e89]
+        - paragraph [ref=e90]: 不需要預備專業知識。可以先看一看講者的工作，帶一個感興趣的專案或問題來聊。
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - text: 01 / 認識講者
+            - heading "先認識 Munus" [level=3] [ref=e93]
+            - paragraph [ref=e94]: 從他的自我介紹頁看看做過的事情，選一個想了解的方向。
+            - link "閱讀自我介紹 ↗" [ref=e95] [cursor=pointer]:
+              - /url: https://meet.munusshih.com
+          - generic [ref=e96]:
+            - text: 02 / 延伸選讀
+            - heading "Designerly Ways of Knowing" [level=3] [ref=e97]
+            - paragraph [ref=e98]: Nigel Cross 的文章。講者推薦作為延伸閱讀，選讀即可，沒有閱讀壓力。
+            - link "查看文章資訊 ↗" [ref=e99] [cursor=pointer]:
+              - /url: https://doi.org/10.1016/0142-694X(82)90040-0
+    - region [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - text: JOIN THE CONVERSATION / 報名參加
+          - heading "換一種方式， 認識世界。" [level=2] [ref=e103]: 換一種方式，認識世界。
+          - paragraph [ref=e104]: 10 月 1 日（四）22:00，線上見。開放任何人參加｜國立清華大學學生優先
+        - link "前往報名頁" [ref=e105] [cursor=pointer]:
+          - /url: https://luma.com/szfyxfyh
+          - text: 前往報名頁
+          - generic [aria-hidden] [ref=e106]: ↗
+  - contentinfo [ref=e107]:
+    - generic [ref=e108]:
+      - img "載物書院" [ref=e109]
+      - paragraph [ref=e110]: 國立清華大學載物書院產業創新與生涯探索｜文創設計小組
+    - paragraph [ref=e111]: DESIGN AS A WAY OF KNOWING2026.10.01 / ONLINE
